@@ -70,23 +70,6 @@ Public Transport Planning: Adjust bus schedules and service frequency based on p
 
 Primary Beneficiaries: City authorities, navigation providers, commuters, and logistics companies.
 
-**Setup & Usage**
-
-Clone the repository:
-
-git clone https://github.com/yourusername/Traffic_Prediction_Project.git
-cd Traffic_Prediction_Project
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-Open the notebook in Databricks or a compatible PySpark environment.
-
-Run the notebook step-by-step from data ingestion → feature engineering → ML training → predictions → visualization.
-
-The pipeline is fully modular, enabling customization and scalability for additional features or models.
-
 **Key Highlights**
 
 End-to-End Workflow: Data ingestion, preprocessing, feature engineering, ML modeling, and prediction storage.
