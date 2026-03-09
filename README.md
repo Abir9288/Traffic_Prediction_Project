@@ -43,10 +43,12 @@ Categorical Encoding: One-hot encoding for cloud coverage
 
 These engineered features improve predictive accuracy and model interpretability.
 
-Machine Learning Models
-Model	RMSE	Description
-Random Forest	292.6220	Captures non-linear interactions, robust to outliers
-XGBoost	270.8484	Gradient boosting ensemble with superior predictive performance
+**Machine Learning Models
+Model	RMSE	Description**
+| Model         | RMSE   | Description                                                     |
+| ------------- | ------ | --------------------------------------------------------------- |
+| Random Forest | 514.86 | Captures non-linear interactions, robust to outliers            |
+| XGBoost       | 433.48 | Gradient boosting ensemble with superior predictive performance |
 
 Key Insight: XGBoost outperforms Random Forest, demonstrating the value of advanced ensemble methods for complex traffic patterns.
 
